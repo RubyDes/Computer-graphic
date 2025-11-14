@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Виселица</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="menu">
+            <button id="newGameBtn">Новая игра</button>
+            <button id="toggleViewBtn">Переключить вид</button>
+        </div>
+        <div class="hint" id="hint"></div>
+        <div class="word-display" id="wordDisplay"></div>
+        <canvas id="gallowsCanvas" width="300" height="300"></canvas>
+        <div class="message" id="message"></div>
+        <div class="letters" id="letters"></div>
+    </div>
+
+    <script src="gallows.js"></script>
+</body>
+</html>

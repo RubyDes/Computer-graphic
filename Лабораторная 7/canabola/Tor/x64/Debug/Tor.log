@@ -1,0 +1,8 @@
+﻿  Tor.cpp
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 7\canabola\Tor\Tor.cpp(207,29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 7\canabola\Tor\Tor.cpp(208,29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 7\canabola\Tor\Tor.cpp(247,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 7\canabola\Tor\Tor.cpp(250,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Tor.vcxproj -> C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 7\canabola\x64\Debug\Tor.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

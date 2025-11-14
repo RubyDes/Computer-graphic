@@ -1,0 +1,16 @@
+﻿  Fonga.cpp
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(358,22): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(358,46): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(358,71): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(358,96): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(366,19): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(366,40): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(366,62): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(366,84): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(367,20): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(367,42): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(367,65): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+C:\Users\User\Desktop\Лабораторная 8\Fonga\Fonga\Fonga.cpp(367,88): warning C4838: Преобразование из "int" в "unsigned char" требует сужающего преобразования.
+  Fonga.vcxproj -> C:\Users\User\Desktop\Лабораторная 8\Fonga\x64\Debug\Fonga.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

@@ -1,0 +1,23 @@
+﻿  flag.cpp
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(43,10): error C3861: glfwInit: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(49,20): error C2065: GLFW_CONTEXT_VERSION_MAJOR: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(49,5): error C3861: glfwWindowHint: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(50,20): error C2065: GLFW_CONTEXT_VERSION_MINOR: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(50,5): error C3861: glfwWindowHint: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(51,20): error C2065: GLFW_OPENGL_PROFILE: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(51,41): error C2065: GLFW_OPENGL_CORE_PROFILE: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(51,5): error C3861: glfwWindowHint: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(54,5): error C2065: GLFWwindow: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(54,17): error C2065: window: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(54,26): error C3861: glfwCreateWindow: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(55,10): error C2065: window: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(57,9): error C3861: glfwTerminate: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(60,28): error C2065: window: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(60,5): error C3861: glfwMakeContextCurrent: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(108,35): error C2065: window: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(108,13): error C3861: glfwWindowShouldClose: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(121,58): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(123,25): error C2065: window: необъявленный идентификатор
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(123,9): error C3861: glfwSwapBuffers: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(124,9): error C3861: glfwPollEvents: идентификатор не найден
+C:\Users\User\Documents\Волгатех ПС - 32\Компьютерная графика\Лабораторная 6\flag\flag\flag.cpp(132,5): error C3861: glfwTerminate: идентификатор не найден
